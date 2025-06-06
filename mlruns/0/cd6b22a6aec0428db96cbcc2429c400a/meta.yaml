@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI_WillyWilsen/Workflow-CI_WillyWilsen/mlruns/0/cd6b22a6aec0428db96cbcc2429c400a/artifacts
+end_time: 1749205300664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd6b22a6aec0428db96cbcc2429c400a
+run_name: salty-dog-810
+run_uuid: cd6b22a6aec0428db96cbcc2429c400a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749205294263
+status: 3
+tags: []
+user_id: runner
