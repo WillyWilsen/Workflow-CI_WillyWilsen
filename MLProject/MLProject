@@ -1,0 +1,12 @@
+name: institusi-pendidikan-mlflow
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      max_iter: { type: int, default: 100 }
+      C: { type: float, default: 1.0 }
+      dataset:
+        { type: string, default: "InstitusiPendidikan_preprocessing.csv" }
+    command: "python modelling.py {max_iter} {C} {dataset}"
